@@ -22,7 +22,7 @@ This project simulates the basic functionality of the IRCTC railway reservation 
 
 ## 🛠 Technologies Used
 
-- Java
+- Java 21
 - OOP
 - Collections Framework
 
